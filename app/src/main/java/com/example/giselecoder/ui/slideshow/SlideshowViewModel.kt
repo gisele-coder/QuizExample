@@ -1,4 +1,4 @@
-package com.example.appone.ui.slideshow
+package com.example.giselecoder.ui.slideshow
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

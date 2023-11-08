@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526010008378",
+    "project_id": "quizexample-f26b5",
+    "storage_bucket": "quizexample-f26b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526010008378:android:e56af91cab8f73179bc603",
+        "android_client_info": {
+          "package_name": "com.example.giselecoder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACHTQVhmF6RgjtV_cYyaGVSjEvaT8PxL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

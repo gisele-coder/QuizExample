@@ -1,4 +1,4 @@
-package com.example.appone
+package com.example.giselecoder
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

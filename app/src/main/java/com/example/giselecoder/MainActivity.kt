@@ -1,4 +1,4 @@
-package com.example.appone
+package com.example.giselecoder
 
 import android.os.Bundle
 import android.view.Menu
@@ -11,7 +11,8 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.appcompat.app.AppCompatActivity
-import com.example.appone.databinding.ActivityMainBinding
+import com.example.giselecoder.R
+import com.example.giselecoder.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
